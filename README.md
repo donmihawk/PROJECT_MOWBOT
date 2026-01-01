@@ -20,7 +20,7 @@ The development of MowBot integrates various hardware and software components to
 **Department of Computer Applications**
 **Mindanao State University – Iligan Institute of Technology**
 
-**Karl Michael T. Bulos**
+**Karl Michael T. Bulos** |LEADER|
 
 **Floyd Joshua T. Luna**
 
